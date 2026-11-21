@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stockcore/static/css/main.e867e899.css",
+    "main.js": "/stockcore/static/js/main.15176002.js",
+    "static/js/453.22afca4d.chunk.js": "/stockcore/static/js/453.22afca4d.chunk.js",
+    "index.html": "/stockcore/index.html",
+    "main.e867e899.css.map": "/stockcore/static/css/main.e867e899.css.map",
+    "main.15176002.js.map": "/stockcore/static/js/main.15176002.js.map",
+    "453.22afca4d.chunk.js.map": "/stockcore/static/js/453.22afca4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e867e899.css",
+    "static/js/main.15176002.js"
+  ]
+}
